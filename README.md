@@ -1,7 +1,7 @@
 # Description
 
 ### PUQ Page Manager module **[WHMCS](https://puqcloud.com/link.php?id=77)**
-##### [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [Community](https://community.puqcloud.com/)
+##### [Order now](https://puqcloud.com/whmcs-addon-puq-page-manager.php) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [Community](https://community.puqcloud.com/)
 
 ## PUQ Page Manager WHMCS Module
 
@@ -53,7 +53,7 @@
 
 ## Links
 
-- **Product page:** [https://puqcloud.com/](https://puqcloud.com/)
+- **Product page:** [https://puqcloud.com/whmcs-addon-puq-page-manager.php](https://puqcloud.com/whmcs-addon-puq-page-manager.php)
 - **Documentation:** [https://doc.puq.info/books/page-manager-whmcs-addon](https://doc.puq.info/books/page-manager-whmcs-addon)
 - **Support:** [https://puqcloud.com/submitticket.php](https://puqcloud.com/submitticket.php?step=2&deptid=1)
 - **Community:** [https://community.puqcloud.com/](https://community.puqcloud.com/)

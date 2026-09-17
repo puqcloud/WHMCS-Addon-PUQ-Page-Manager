@@ -1,7 +1,7 @@
 # Feature Grid
 
 ### PUQ Page Manager module **[WHMCS](https://puqcloud.com/link.php?id=77)**
-##### [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [Community](https://community.puqcloud.com/)
+##### [Order now](https://puqcloud.com/whmcs-addon-puq-page-manager.php) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [Community](https://community.puqcloud.com/)
 
 The Feature Grid widget renders a responsive grid of feature cards. Each card displays a Font Awesome icon, a title, a description, and an optional link. The grid layout, icon appearance, card alignment, and visual options are all configurable.
 

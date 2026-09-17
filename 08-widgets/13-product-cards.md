@@ -1,7 +1,7 @@
 # Product Cards
 
 ### PUQ Page Manager module **[WHMCS](https://puqcloud.com/link.php?id=77)**
-##### [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [Community](https://community.puqcloud.com/)
+##### [Order now](https://puqcloud.com/whmcs-addon-puq-page-manager.php) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [Community](https://community.puqcloud.com/)
 
 The Product Cards widget displays WHMCS products with their pricing and descriptions in a card layout. Products can be loaded automatically from a WHMCS product group or added manually. Each card supports hot/new/sale badge overlays and an Order Now button. Ten visual styles are available.
 

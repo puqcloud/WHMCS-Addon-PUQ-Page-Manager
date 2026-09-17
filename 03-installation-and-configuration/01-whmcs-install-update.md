@@ -1,7 +1,7 @@
 # WHMCS Module Installation and Update
 
 ### PUQ Page Manager module **[WHMCS](https://puqcloud.com/link.php?id=77)**
-##### [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [Community](https://community.puqcloud.com/)
+##### [Order now](https://puqcloud.com/whmcs-addon-puq-page-manager.php) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [Community](https://community.puqcloud.com/)
 
 ## System requirements
 
@@ -19,7 +19,7 @@
 
 The module can be ordered and downloaded from PUQ Cloud:
 
-- **Order Module:** [https://puqcloud.com/store/whmcs-addon-modules](https://puqcloud.com/store/whmcs-addon-modules)
+- **Order Module:** [https://puqcloud.com/whmcs-addon-puq-page-manager.php](https://puqcloud.com/whmcs-addon-puq-page-manager.php)
 - **Documentation:** [https://doc.puq.info/books/page-manager-whmcs-addon](https://doc.puq.info/books/page-manager-whmcs-addon)
 - **All Versions / Download:** [https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/)
 - **Support:** [https://puqcloud.com/submitticket.php?step=2&deptid=1](https://puqcloud.com/submitticket.php?step=2&deptid=1)

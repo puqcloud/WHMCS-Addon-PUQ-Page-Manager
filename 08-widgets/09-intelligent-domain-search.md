@@ -1,7 +1,7 @@
 # Intelligent Domain Search
 
 ### PUQ Page Manager module **[WHMCS](https://puqcloud.com/link.php?id=77)**
-##### [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [Community](https://community.puqcloud.com/)
+##### [Order now](https://puqcloud.com/whmcs-addon-puq-page-manager.php) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [Community](https://community.puqcloud.com/)
 
 The Intelligent Domain Search widget provides an advanced domain search experience that displays TLD availability, pricing, and buy/transfer actions directly on the page. It pulls live TLD data from WHMCS and presents results in a structured results panel with per-extension availability status and pricing.
 

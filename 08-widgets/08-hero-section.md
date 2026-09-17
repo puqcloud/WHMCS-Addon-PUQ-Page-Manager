@@ -1,7 +1,7 @@
 # Hero Section
 
 ### PUQ Page Manager module **[WHMCS](https://puqcloud.com/link.php?id=77)**
-##### [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [Community](https://community.puqcloud.com/)
+##### [Order now](https://puqcloud.com/whmcs-addon-puq-page-manager.php) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [Community](https://community.puqcloud.com/)
 
 The Hero Section widget renders a full-width banner intended for the top of a page. It supports a badge tag, title, subtitle, description, two action buttons, overlay effects, a background video, and parallax scrolling. All typography, layout, and background options are configurable.
 

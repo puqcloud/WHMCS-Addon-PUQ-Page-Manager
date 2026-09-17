@@ -1,7 +1,7 @@
 # Promo Slider
 
 ### PUQ Page Manager module **[WHMCS](https://puqcloud.com/link.php?id=77)**
-##### [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [Community](https://community.puqcloud.com/)
+##### [Order now](https://puqcloud.com/whmcs-addon-puq-page-manager.php) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [Community](https://community.puqcloud.com/)
 
 The Promo Slider widget renders an image carousel with text overlays and call-to-action buttons. Each slide can have a heading, description, foreground image, background image, and a button link. Ten visual styles are available, including cinematic, parallax, and split-screen layouts.
 
