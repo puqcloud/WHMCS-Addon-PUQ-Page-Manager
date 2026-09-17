@@ -1,11 +1,11 @@
 # Pages
 
-### Page Manager addon **[WHMCS](https://puqcloud.com/link.php?id=77)**
-#####  [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [FAQ](https://community.puqcloud.com/)
+### PUQ Page Manager module **[WHMCS](https://puqcloud.com/link.php?id=77)**
+##### [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [Community](https://community.puqcloud.com/)
 
 The Pages section allows you to view, create, edit, and manage all your custom pages.
 
-![All Pages list](img/03-pages.png)
+![All Pages list](../img/03-pages.png)
 *03-pages.png*
 
 ---
@@ -26,9 +26,10 @@ The pages list displays all created pages in a table with the following columns:
 
 ---
 
-## Add New Page
+## Add New Page & Quick Start (Demo Pages)
 
-Click the **Add Page** button at the top of the pages list. A new page is created instantly via AJAX and you are redirected to the page editor.
+- **Add Page**: Click the **Add Page** button at the top of the pages list to create a blank new page and open the editor immediately.
+- **Create Demo Pages**: Click the **Demo** button to instantly generate preconfigured, production-ready showcase pages (including a homepage, an about us page, and complete widget demonstration pages). All widgets are populated with balanced color palettes and English content to kickstart evaluation and design.
 
 ---
 
@@ -45,6 +46,7 @@ Clicking **Edit** on any page opens the page editor. The editor is organized int
 | **Parent Page** | Optional parent page for hierarchical organization |
 | **Sort Order** | Numeric value for sorting pages (lower = first) |
 | **Status** | Draft, Published, Scheduled, or Archived |
+| **Reset Views** | Click the reset button next to the view counter to reset this page’s total views back to zero |
 
 ### Visibility & Access
 

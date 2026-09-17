@@ -1,7 +1,7 @@
 # Tabs / Accordion
 
-### Page Manager addon **[WHMCS](https://puqcloud.com/link.php?id=77)**
-#####  [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [FAQ](https://community.puqcloud.com/)
+### PUQ Page Manager module **[WHMCS](https://puqcloud.com/link.php?id=77)**
+##### [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [Community](https://community.puqcloud.com/)
 
 The Tabs / Accordion widget renders content sections that are toggled by clicking a tab or accordion header. It supports two modes — tabbed navigation and collapsible accordion — with rich HTML content in each section body.
 

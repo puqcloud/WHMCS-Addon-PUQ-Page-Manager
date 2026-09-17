@@ -1,7 +1,7 @@
 # Domain TLD
 
-### Page Manager addon **[WHMCS](https://puqcloud.com/link.php?id=77)**
-#####  [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [FAQ](https://community.puqcloud.com/)
+### PUQ Page Manager module **[WHMCS](https://puqcloud.com/link.php?id=77)**
+##### [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [Community](https://community.puqcloud.com/)
 
 The Domain TLD widget displays domain extension pricing fetched from the WHMCS `GetTLDPricing` API. TLD entries can be defined manually in the admin editor or pulled randomly from WHMCS. Each TLD supports a promotional label (Hot, New, Sale), an IDN flag, and a custom image.
 

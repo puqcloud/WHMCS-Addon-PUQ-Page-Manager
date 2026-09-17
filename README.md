@@ -1,18 +1,18 @@
 # Description
 
-### Page Manager addon **[WHMCS](https://puqcloud.com/link.php?id=77)**
-#####  [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [FAQ](https://community.puqcloud.com/)
+### PUQ Page Manager module **[WHMCS](https://puqcloud.com/link.php?id=77)**
+##### [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [Community](https://community.puqcloud.com/)
 
-## PUQ Page Manager — WHMCS Addon
+## PUQ Page Manager WHMCS Module
 
-**PUQ Page Manager** is an addon module for WHMCS that allows you to create and manage custom pages using a powerful block widget editor (EditorJS). It includes 23+ built-in widgets, multilingual support, SEO optimization, page analytics, password protection, revision history, and WHMCS page rewrites — all without writing any code.
+**PUQ Page Manager** is an addon module for WHMCS that allows you to create and manage custom pages using a powerful block widget editor (EditorJS). It includes 24 built-in widgets, multilingual support, SEO optimization, page analytics, password protection, revision history, and WHMCS page rewrites — all without writing any code.
 
 ---
 
 ## Key Features
 
 - **Block Widget Editor** — visual page builder powered by EditorJS with drag-and-drop block management
-- **23+ Built-in Widgets** — Hero Section, Product Cards, Promo Slider, Testimonials, Timeline, FAQ, Team Slide, Contact Form, Tabs/Accordion, and many more
+- **24 Built-in Widgets** — Hero Section, Product Cards, Promo Slider, Testimonials, Timeline, FAQ, Team Slide, Contact Form, Tabs/Accordion, Markdown, and many more
 - **Multiple Style Variants** — most widgets include 5–11 design styles selectable from the admin panel
 - **Full Background Control** — every widget supports background image, color, shadow, and border-radius settings
 - **Multilingual Pages** — create page translations for any language with translation status tracking (Translated / Needs Update / Not Translated)
@@ -37,9 +37,17 @@
 
 | Requirement | Minimum |
 |-------------|---------|
-| **WHMCS** | 8.x, 9.x |
-| **PHP** | 8.1, 8.2+ |
-| **ionCube Loader** | v13 or newer (v14, v15) |
+| **WHMCS** | 8.x+, 9.x+ |
+| **PHP** | 7.4, 8.1, 8.2, 8.3, 8.4 |
+| **ionCube Loader** | v15+ |
+
+---
+
+## Module Components
+
+| Component | Type | Directory |
+|-----------|------|-----------|
+| Addon Module | `puq_page_manager` | `modules/addons/puq_page_manager/` |
 
 ---
 
@@ -49,3 +57,15 @@
 - **Documentation:** [https://doc.puq.info/books/page-manager-whmcs-addon](https://doc.puq.info/books/page-manager-whmcs-addon)
 - **Support:** [https://puqcloud.com/submitticket.php](https://puqcloud.com/submitticket.php?step=2&deptid=1)
 - **Community:** [https://community.puqcloud.com/](https://community.puqcloud.com/)
+
+---
+
+## Screenshots
+
+### Admin Area — Dashboard
+![Admin Area Dashboard](img/02-dashboard.png)
+*02-dashboard.png*
+
+### Admin Area — Pages
+![Admin Area Pages](img/03-pages.png)
+*03-pages.png*

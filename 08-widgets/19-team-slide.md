@@ -1,7 +1,7 @@
 # Team Slide
 
-### Page Manager addon **[WHMCS](https://puqcloud.com/link.php?id=77)**
-#####  [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [FAQ](https://community.puqcloud.com/)
+### PUQ Page Manager module **[WHMCS](https://puqcloud.com/link.php?id=77)**
+##### [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [Community](https://community.puqcloud.com/)
 
 The Team Slide widget renders a showcase of team members as cards or a slider. Each member entry supports a photo, name, position, biography, and links to social media profiles including LinkedIn, Facebook, Twitter, Instagram, GitHub, and a personal website.
 

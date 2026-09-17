@@ -1,11 +1,11 @@
 # Settings
 
-### Page Manager addon **[WHMCS](https://puqcloud.com/link.php?id=77)**
-#####  [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [FAQ](https://community.puqcloud.com/)
+### PUQ Page Manager module **[WHMCS](https://puqcloud.com/link.php?id=77)**
+##### [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [Community](https://community.puqcloud.com/)
 
 The Settings page allows you to configure page rewrites, import/export pages, and customize the password protection page appearance.
 
-![Settings page with rewrites and import/export](img/05-settings.png)
+![Settings page with rewrites and import/export](../img/05-settings.png)
 *05-settings.png*
 
 ---
@@ -54,7 +54,7 @@ Click **+ Add Rewrite** to add a new rule. Each rule has:
 
 Customize the look and feel of the password protection page that visitors see when accessing a password-protected page.
 
-![Password page appearance settings with live preview](img/06-settings-password-appearance.png)
+![Password page appearance settings with live preview](../img/06-settings-password-appearance.png)
 *06-settings-password-appearance.png*
 
 ### Quick Presets

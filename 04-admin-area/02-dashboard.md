@@ -1,11 +1,11 @@
 # Dashboard
 
-### Page Manager addon **[WHMCS](https://puqcloud.com/link.php?id=77)**
-#####  [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [FAQ](https://community.puqcloud.com/)
+### PUQ Page Manager module **[WHMCS](https://puqcloud.com/link.php?id=77)**
+##### [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [Community](https://community.puqcloud.com/)
 
 The Dashboard is the main screen of PUQ Page Manager. It provides a quick overview of your pages, recent activity, and system information.
 
-![PUQ Page Manager Dashboard](img/02-dashboard.png)
+![PUQ Page Manager Dashboard](../img/02-dashboard.png)
 *02-dashboard.png*
 
 ---

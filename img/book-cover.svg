@@ -41,29 +41,23 @@
     <rect x="22" y="22" width="18" height="18" rx="3" fill="#6c3ce0" opacity="0.4"/>
   </g>
 
-  <!-- Module title -->
-  <text x="220" y="60" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="white" text-anchor="start">Page</text>
-  <text x="220" y="92" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="white" text-anchor="start">Manager</text>
+  <!-- Module title (Change for specific module) -->
+  <text x="240" y="75" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="start">Page</text>
+  <text x="240" y="108" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="start">Manager</text>
 
   <!-- Subtitle -->
-  <text x="220" y="119" font-family="Arial, sans-serif" font-size="13" fill="#94a3b8" text-anchor="start">WHMCS Addon Module</text>
+  <text x="240" y="135" font-family="Arial, sans-serif" font-size="13" fill="#94a3b8" text-anchor="start">WHMCS Addon Module</text>
 
   <!-- Divider -->
-  <rect x="220" y="132" width="60" height="2" fill="#6c3ce0" rx="1"/>
+  <rect x="240" y="148" width="60" height="2" fill="#6c3ce0" rx="1"/>
 
-  <!-- Description -->
-  <text x="220" y="156" font-family="Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="start">Block widget editor with 23+</text>
-  <text x="220" y="172" font-family="Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="start">widgets, SEO &amp; multilingual pages</text>
+  <!-- Description (Features) -->
+  <text x="240" y="172" font-family="Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="start">Block widget editor with 24</text>
+  <text x="240" y="188" font-family="Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="start">widgets, SEO &amp; multilingual pages</text>
 
-  <!-- PUQ Cloud branding -->
+  <!-- PUQ Software branding (Do not change) -->
   <g transform="translate(30, 210)">
     <text x="0" y="15" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#6c3ce0">PUQ</text>
-    <text x="55" y="15" font-family="Arial, sans-serif" font-size="12" fill="#64748b">cloud</text>
-  </g>
-
-  <!-- Version badge -->
-  <g transform="translate(362, 218)">
-    <rect x="0" y="0" width="55" height="20" rx="4" fill="#6c3ce0" opacity="0.2" stroke="#6c3ce0" stroke-width="1"/>
-    <text x="27" y="14" font-family="Arial, sans-serif" font-size="11" fill="#a78bfa" text-anchor="middle">v1.0</text>
+    <text x="55" y="15" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Software</text>
   </g>
 </svg>

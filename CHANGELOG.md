@@ -1,7 +1,34 @@
 # Changelog
 
-### Page Manager addon **[WHMCS](https://puqcloud.com/link.php?id=77)**
-#####  [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [FAQ](https://community.puqcloud.com/)
+### PUQ Page Manager module **[WHMCS](https://puqcloud.com/link.php?id=77)**
+##### [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [Community](https://community.puqcloud.com/)
+
+## v4.0.0 — 2026-09-15
+
+### Major Architecture & Features Upgrade
+
+- **Universal ionCube Loader v15 Support:** Fully re-encoded using the latest ionCube 15 compiler, guaranteeing seamless execution across PHP 7.4, 8.1, 8.2, 8.3, and 8.4 environments.
+- **Unencoded Hooks Architecture (v4.0.0 Standard):** Refactored `hooks.php` into an open, unencoded entrypoint delegating to `lib/puqPageManagerHooks.php` for bulletproof dynamic hook registration and error isolation across all WHMCS environments.
+- **Instant Demo Content Generation (Quick Start):** Added a 1-click **Create Demo Pages** button in the Pages management area. Automatically seeds a full suite of preconfigured showcase pages (Home, About Us, Widget Gallery) with styled widget blocks, vibrant color palettes, and English placeholders for instant testing and onboarding.
+- **Analytics & Page View Reset Controls:** Added per-page view count reset controls in the page editor alongside a global **Reset All Views** action on the Analytics dashboard for effortless testing and statistics maintenance.
+- **Dual Ukrainian Language Pack Support:** Added full simultaneous support for both `ukranian.php` (historical WHMCS slug) and `ukrainian.php` (standard grammatical slug) to ensure seamless native localization across all WHMCS distribution setups.
+- **Comprehensive Multi-language i18n Audit:** Audited and synchronized translation keys across all 25+ language files, enforcing typographic apostrophe standards (`’`) to eliminate JavaScript syntax breakage in dynamic frontend notifications.
+- **Clean Admin & Widget AJAX Interception:** Fixed an issue where admin AJAX endpoints (e.g. `getDashboard`, page lists, settings) could be wrapped in WHMCS admin HTML templates, causing infinite loading spinners. Added early hook interception and strict output buffer cleansing.
+- **Enhanced WHMCS 8.x & WHMCS 9+ Compatibility:** Modernized request routing and custom rewrite pipelines to ensure smooth operation on latest WHMCS releases.
+- **Improved Performance & Reliability:** Optimized page lookup caching and cleaner exception handling in frontend render loops.
+
+---
+
+## v1.2 — 2026-07-16
+
+### Improvements & Standardization
+
+- **Enhanced PHP 8.1+ Compatibility:** Improved internal AJAX routing and error handling by replacing deprecated legacy termination calls with modern exception throwing, ensuring smooth execution on strict WHMCS 8.x environments.
+- **Optimized License Verification:** Eliminated log bloat by skipping redundant log entries during successful local (offline) license validations, keeping your WHMCS system logs clean and focused.
+- **Admin Interface Upgrade:** Redesigned the module's administrative navigation bar to match the latest PUQ Bootstrap 3 standard. Added a quick-access "Help" menu with direct links to Documentation, Website, and the Community Forum.
+- **Updated Marketing Assets:** Generated high-resolution, standard-compliant cover images and marketplace banners with updated PUQ Software branding while preserving custom module iconography.
+
+---
 
 ## v1.1 — 2026-04-27
 

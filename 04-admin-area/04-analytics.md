@@ -1,11 +1,11 @@
 # Analytics
 
-### Page Manager addon **[WHMCS](https://puqcloud.com/link.php?id=77)**
-#####  [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [FAQ](https://community.puqcloud.com/)
+### PUQ Page Manager module **[WHMCS](https://puqcloud.com/link.php?id=77)**
+##### [Order now](https://puqcloud.com/store/whmcs-addon-modules) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ_WHMCS-Page-Manager/) | [Community](https://community.puqcloud.com/)
 
 The Analytics page provides insights into page views and visitor activity.
 
-![Analytics page with view statistics and charts](img/04-analytics.png)
+![Analytics page with view statistics and charts](../img/04-analytics.png)
 *04-analytics.png*
 
 ---
@@ -39,3 +39,11 @@ A table listing the most popular pages, sorted by total views:
 | **URL** | Page URL slug |
 | **Total Views** | Total number of views |
 | **Unique Views** | Number of unique visitors |
+
+---
+
+## Reset Statistics
+
+Administrators can flush analytics data at any time:
+- **Reset All Views**: Use the reset button in the header of the Analytics tab to clear view history across all pages and start fresh with tracking.
+
